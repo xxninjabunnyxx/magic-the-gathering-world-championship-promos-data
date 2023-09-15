@@ -1,0 +1,15 @@
+---
+object: set
+id: af254727-ca30-48fd-b9bf-144f7e1a308f
+code: pwor
+name: World Championship Promos
+uri: https://api.scryfall.com/sets/af254727-ca30-48fd-b9bf-144f7e1a308f
+scryfall_uri: https://scryfall.com/sets/pwor
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apwor&unique=prints
+released_at: '1999-08-04'
+set_type: promo
+card_count: 2
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
